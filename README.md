@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="tech-skills.svg" alt="Technical Skills" width="860"/>
+![Technical Skills](https://raw.githubusercontent.com/Frasier513/Frasier513/main/tech-skills.svg)
 
 ## My Contribution Graph
 
