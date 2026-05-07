@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Technical Skills](tech-skills.svg)
+<img src="tech-skills.svg" alt="Technical Skills" width="860"/>
 
 ## My Contribution Graph
 
