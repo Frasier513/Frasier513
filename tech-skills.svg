@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="622" viewBox="0 0 860 622">
+<defs>
+<linearGradient id="bggrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/></linearGradient>
+</defs>
+<rect width="860" height="622" fill="url(#bggrad)" rx="12"/>
+<line x1="0" y1="0" x2="860" y2="0" stroke="#30363d" stroke-width="1"/>
+<text x="430" y="30" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="bold" fill="#e6edf3" letter-spacing="0.5">Technical Skills</text>
+<rect x="18" y="56" width="104.5" height="20" rx="4" fill="#1f6feb" opacity="0.2"/>
+<rect x="18" y="56" width="104.5" height="20" rx="4" fill="none" stroke="#388bfd" stroke-width="1.2" opacity="0.8"/>
+<circle cx="28" cy="66" r="3" fill="#388bfd" opacity="0.9"/>
+<text x="38" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#388bfd" letter-spacing="0.3">LANGUAGES</text>
+<rect x="19" y="84" width="65" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="18" y="82" width="65" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.00s" repeatCount="indefinite"/></rect>
+<rect x="18" y="82" width="65" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.00s" repeatCount="indefinite"/></rect>
+<text x="50.5" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Python</text>
+<rect x="91" y="84" width="94" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="90" y="82" width="94" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.06s" repeatCount="indefinite"/></rect>
+<rect x="90" y="82" width="94" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.06s" repeatCount="indefinite"/></rect>
+<text x="137" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">JavaScript</text>
+<rect x="192" y="84" width="94" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="191" y="82" width="94" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.11s" repeatCount="indefinite"/></rect>
+<rect x="191" y="82" width="94" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.11s" repeatCount="indefinite"/></rect>
+<text x="238" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">TypeScript</text>
+<rect x="293" y="84" width="58" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="292" y="82" width="58" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.17s" repeatCount="indefinite"/></rect>
+<rect x="292" y="82" width="58" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.17s" repeatCount="indefinite"/></rect>
+<text x="321" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Swift</text>
+<rect x="358" y="84" width="65" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="357" y="82" width="65" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.22s" repeatCount="indefinite"/></rect>
+<rect x="357" y="82" width="65" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.22s" repeatCount="indefinite"/></rect>
+<text x="389.5" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Kotlin</text>
+<rect x="430" y="84" width="36" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="429" y="82" width="36" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.28s" repeatCount="indefinite"/></rect>
+<rect x="429" y="82" width="36" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.28s" repeatCount="indefinite"/></rect>
+<text x="447" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Go</text>
+<rect x="473" y="84" width="51" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="472" y="82" width="51" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.33s" repeatCount="indefinite"/></rect>
+<rect x="472" y="82" width="51" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.33s" repeatCount="indefinite"/></rect>
+<text x="497.5" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Rust</text>
+<rect x="531" y="84" width="44" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="530" y="82" width="44" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.39s" repeatCount="indefinite"/></rect>
+<rect x="530" y="82" width="44" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.39s" repeatCount="indefinite"/></rect>
+<text x="552" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">C++</text>
+<rect x="582" y="84" width="51" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="581" y="82" width="51" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.44s" repeatCount="indefinite"/></rect>
+<rect x="581" y="82" width="51" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.44s" repeatCount="indefinite"/></rect>
+<text x="606.5" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Java</text>
+<rect x="640" y="84" width="36" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="639" y="82" width="36" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.49s" repeatCount="indefinite"/></rect>
+<rect x="639" y="82" width="36" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.49s" repeatCount="indefinite"/></rect>
+<text x="657" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">C#</text>
+<rect x="683" y="84" width="44" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="682" y="82" width="44" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.55s" repeatCount="indefinite"/></rect>
+<rect x="682" y="82" width="44" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.55s" repeatCount="indefinite"/></rect>
+<text x="704" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">PHP</text>
+<rect x="734" y="84" width="51" height="27" rx="5" fill="#1f6feb" opacity="0.15"/>
+<rect x="733" y="82" width="51" height="27" rx="5"><animate attributeName="fill" values="#1f6feb33;#1f6feb66;#1f6feb33" dur="4s" begin="0.60s" repeatCount="indefinite"/></rect>
+<rect x="733" y="82" width="51" height="27" rx="5" fill="none" stroke="#388bfd" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.60s" repeatCount="indefinite"/></rect>
+<text x="758.5" y="100" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Ruby</text>
+<rect x="18" y="134" width="96" height="20" rx="4" fill="#238636" opacity="0.2"/>
+<rect x="18" y="134" width="96" height="20" rx="4" fill="none" stroke="#3fb950" stroke-width="1.2" opacity="0.8"/>
+<circle cx="28" cy="144" r="3" fill="#3fb950" opacity="0.9"/>
+<text x="38" y="148" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#3fb950" letter-spacing="0.3">FRONTEND</text>
+<rect x="19" y="162" width="58" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="18" y="160" width="58" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="0.66s" repeatCount="indefinite"/></rect>
+<rect x="18" y="160" width="58" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.66s" repeatCount="indefinite"/></rect>
+<text x="47" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">React</text>
+<rect x="84" y="162" width="65" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="83" y="160" width="65" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="0.71s" repeatCount="indefinite"/></rect>
+<rect x="83" y="160" width="65" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.71s" repeatCount="indefinite"/></rect>
+<text x="115.5" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Vue.js</text>
+<rect x="156" y="162" width="72" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="155" y="160" width="72" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="0.77s" repeatCount="indefinite"/></rect>
+<rect x="155" y="160" width="72" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.77s" repeatCount="indefinite"/></rect>
+<text x="191" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Next.js</text>
+<rect x="235" y="162" width="108" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="234" y="160" width="108" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="0.82s" repeatCount="indefinite"/></rect>
+<rect x="234" y="160" width="108" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.82s" repeatCount="indefinite"/></rect>
+<text x="288" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Tailwind CSS</text>
+<rect x="350" y="162" width="58" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="349" y="160" width="58" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="0.88s" repeatCount="indefinite"/></rect>
+<rect x="349" y="160" width="58" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.88s" repeatCount="indefinite"/></rect>
+<text x="378" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">HTML5</text>
+<rect x="415" y="162" width="51" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="414" y="160" width="51" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="0.94s" repeatCount="indefinite"/></rect>
+<rect x="414" y="160" width="51" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.94s" repeatCount="indefinite"/></rect>
+<text x="439.5" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">CSS3</text>
+<rect x="473" y="162" width="58" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="472" y="160" width="58" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="0.99s" repeatCount="indefinite"/></rect>
+<rect x="472" y="160" width="58" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="0.99s" repeatCount="indefinite"/></rect>
+<text x="501" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Redux</text>
+<rect x="538" y="162" width="72" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="537" y="160" width="72" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="1.04s" repeatCount="indefinite"/></rect>
+<rect x="537" y="160" width="72" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.04s" repeatCount="indefinite"/></rect>
+<text x="573" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">GraphQL</text>
+<rect x="617" y="162" width="72" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="616" y="160" width="72" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="1.10s" repeatCount="indefinite"/></rect>
+<rect x="616" y="160" width="72" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.10s" repeatCount="indefinite"/></rect>
+<text x="652" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Angular</text>
+<rect x="696" y="162" width="65" height="27" rx="5" fill="#238636" opacity="0.15"/>
+<rect x="695" y="160" width="65" height="27" rx="5"><animate attributeName="fill" values="#23863633;#23863666;#23863633" dur="4s" begin="1.16s" repeatCount="indefinite"/></rect>
+<rect x="695" y="160" width="65" height="27" rx="5" fill="none" stroke="#3fb950" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.16s" repeatCount="indefinite"/></rect>
+<text x="727.5" y="178" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Svelte</text>
+<rect x="18" y="212" width="87.5" height="20" rx="4" fill="#9b59b6" opacity="0.2"/>
+<rect x="18" y="212" width="87.5" height="20" rx="4" fill="none" stroke="#c39bd3" stroke-width="1.2" opacity="0.8"/>
+<circle cx="28" cy="222" r="3" fill="#c39bd3" opacity="0.9"/>
+<text x="38" y="226" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#c39bd3" letter-spacing="0.3">BACKEND</text>
+<rect x="19" y="240" width="72" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="18" y="238" width="72" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.21s" repeatCount="indefinite"/></rect>
+<rect x="18" y="238" width="72" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.21s" repeatCount="indefinite"/></rect>
+<text x="54" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Node.js</text>
+<rect x="98" y="240" width="72" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="97" y="238" width="72" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.26s" repeatCount="indefinite"/></rect>
+<rect x="97" y="238" width="72" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.26s" repeatCount="indefinite"/></rect>
+<text x="133" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">FastAPI</text>
+<rect x="177" y="240" width="65" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="176" y="238" width="65" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.32s" repeatCount="indefinite"/></rect>
+<rect x="176" y="238" width="65" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.32s" repeatCount="indefinite"/></rect>
+<text x="208.5" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Django</text>
+<rect x="249" y="240" width="72" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="248" y="238" width="72" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.38s" repeatCount="indefinite"/></rect>
+<rect x="248" y="238" width="72" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.38s" repeatCount="indefinite"/></rect>
+<text x="284" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Express</text>
+<rect x="328" y="240" width="101" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="327" y="238" width="101" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.43s" repeatCount="indefinite"/></rect>
+<rect x="327" y="238" width="101" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.43s" repeatCount="indefinite"/></rect>
+<text x="377.5" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Spring Boot</text>
+<rect x="436" y="240" width="58" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="435" y="238" width="58" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.49s" repeatCount="indefinite"/></rect>
+<rect x="435" y="238" width="58" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.49s" repeatCount="indefinite"/></rect>
+<text x="464" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Flask</text>
+<rect x="501" y="240" width="80" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="500" y="238" width="80" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.54s" repeatCount="indefinite"/></rect>
+<rect x="500" y="238" width="80" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.54s" repeatCount="indefinite"/></rect>
+<text x="540" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">REST API</text>
+<rect x="588" y="240" width="51" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="587" y="238" width="51" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.59s" repeatCount="indefinite"/></rect>
+<rect x="587" y="238" width="51" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.59s" repeatCount="indefinite"/></rect>
+<text x="612.5" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">gRPC</text>
+<rect x="646" y="240" width="65" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="645" y="238" width="65" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.65s" repeatCount="indefinite"/></rect>
+<rect x="645" y="238" width="65" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.65s" repeatCount="indefinite"/></rect>
+<text x="677.5" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">NestJS</text>
+<rect x="718" y="240" width="72" height="27" rx="5" fill="#9b59b6" opacity="0.15"/>
+<rect x="717" y="238" width="72" height="27" rx="5"><animate attributeName="fill" values="#9b59b633;#9b59b666;#9b59b633" dur="4s" begin="1.71s" repeatCount="indefinite"/></rect>
+<rect x="717" y="238" width="72" height="27" rx="5" fill="none" stroke="#c39bd3" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.71s" repeatCount="indefinite"/></rect>
+<text x="753" y="256" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Laravel</text>
+<rect x="18" y="290" width="104.5" height="20" rx="4" fill="#e07b39" opacity="0.2"/>
+<rect x="18" y="290" width="104.5" height="20" rx="4" fill="none" stroke="#f0a070" stroke-width="1.2" opacity="0.8"/>
+<circle cx="28" cy="300" r="3" fill="#f0a070" opacity="0.9"/>
+<text x="38" y="304" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#f0a070" letter-spacing="0.3">DATABASES</text>
+<rect x="19" y="318" width="94" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="18" y="316" width="94" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="1.76s" repeatCount="indefinite"/></rect>
+<rect x="18" y="316" width="94" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.76s" repeatCount="indefinite"/></rect>
+<text x="65" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">PostgreSQL</text>
+<rect x="120" y="318" width="72" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="119" y="316" width="72" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="1.81s" repeatCount="indefinite"/></rect>
+<rect x="119" y="316" width="72" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.81s" repeatCount="indefinite"/></rect>
+<text x="155" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">MongoDB</text>
+<rect x="199" y="318" width="58" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="198" y="316" width="58" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="1.87s" repeatCount="indefinite"/></rect>
+<rect x="198" y="316" width="58" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.87s" repeatCount="indefinite"/></rect>
+<text x="227" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Redis</text>
+<rect x="264" y="318" width="58" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="263" y="316" width="58" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="1.93s" repeatCount="indefinite"/></rect>
+<rect x="263" y="316" width="58" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.93s" repeatCount="indefinite"/></rect>
+<text x="292" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">MySQL</text>
+<rect x="329" y="318" width="65" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="328" y="316" width="65" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="1.98s" repeatCount="indefinite"/></rect>
+<rect x="328" y="316" width="65" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="1.98s" repeatCount="indefinite"/></rect>
+<text x="360.5" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">SQLite</text>
+<rect x="401" y="318" width="80" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="400" y="316" width="80" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="2.04s" repeatCount="indefinite"/></rect>
+<rect x="400" y="316" width="80" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.04s" repeatCount="indefinite"/></rect>
+<text x="440" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Firebase</text>
+<rect x="488" y="318" width="80" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="487" y="316" width="80" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="2.09s" repeatCount="indefinite"/></rect>
+<rect x="487" y="316" width="80" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.09s" repeatCount="indefinite"/></rect>
+<text x="527" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Supabase</text>
+<rect x="575" y="318" width="80" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="574" y="316" width="80" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="2.15s" repeatCount="indefinite"/></rect>
+<rect x="574" y="316" width="80" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.15s" repeatCount="indefinite"/></rect>
+<text x="614" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">DynamoDB</text>
+<rect x="662" y="318" width="116" height="27" rx="5" fill="#e07b39" opacity="0.15"/>
+<rect x="661" y="316" width="116" height="27" rx="5"><animate attributeName="fill" values="#e07b3933;#e07b3966;#e07b3933" dur="4s" begin="2.20s" repeatCount="indefinite"/></rect>
+<rect x="661" y="316" width="116" height="27" rx="5" fill="none" stroke="#f0a070" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.20s" repeatCount="indefinite"/></rect>
+<text x="719" y="334" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Elasticsearch</text>
+<rect x="18" y="368" width="147" height="20" rx="4" fill="#d73a49" opacity="0.2"/>
+<rect x="18" y="368" width="147" height="20" rx="4" fill="none" stroke="#f85149" stroke-width="1.2" opacity="0.8"/>
+<circle cx="28" cy="378" r="3" fill="#f85149" opacity="0.9"/>
+<text x="38" y="382" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#f85149" letter-spacing="0.3">DEVOPS & CLOUD</text>
+<rect x="19" y="396" width="65" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="18" y="394" width="65" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.25s" repeatCount="indefinite"/></rect>
+<rect x="18" y="394" width="65" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.25s" repeatCount="indefinite"/></rect>
+<text x="50.5" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Docker</text>
+<rect x="91" y="396" width="94" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="90" y="394" width="94" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.31s" repeatCount="indefinite"/></rect>
+<rect x="90" y="394" width="94" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.31s" repeatCount="indefinite"/></rect>
+<text x="137" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Kubernetes</text>
+<rect x="192" y="396" width="44" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="191" y="394" width="44" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.37s" repeatCount="indefinite"/></rect>
+<rect x="191" y="394" width="44" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.37s" repeatCount="indefinite"/></rect>
+<text x="213" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">AWS</text>
+<rect x="243" y="396" width="44" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="242" y="394" width="44" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.42s" repeatCount="indefinite"/></rect>
+<rect x="242" y="394" width="44" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.42s" repeatCount="indefinite"/></rect>
+<text x="264" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">GCP</text>
+<rect x="294" y="396" width="58" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="293" y="394" width="58" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.48s" repeatCount="indefinite"/></rect>
+<rect x="293" y="394" width="58" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.48s" repeatCount="indefinite"/></rect>
+<text x="322" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Azure</text>
+<rect x="359" y="396" width="44" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="358" y="394" width="44" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.53s" repeatCount="indefinite"/></rect>
+<rect x="358" y="394" width="44" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.53s" repeatCount="indefinite"/></rect>
+<text x="380" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Git</text>
+<rect x="410" y="396" width="123" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="409" y="394" width="123" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.58s" repeatCount="indefinite"/></rect>
+<rect x="409" y="394" width="123" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.58s" repeatCount="indefinite"/></rect>
+<text x="470.5" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">GitHub Actions</text>
+<rect x="540" y="396" width="58" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="539" y="394" width="58" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.64s" repeatCount="indefinite"/></rect>
+<rect x="539" y="394" width="58" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.64s" repeatCount="indefinite"/></rect>
+<text x="568" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Linux</text>
+<rect x="605" y="396" width="87" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="604" y="394" width="87" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.69s" repeatCount="indefinite"/></rect>
+<rect x="604" y="394" width="87" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.69s" repeatCount="indefinite"/></rect>
+<text x="647.5" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Terraform</text>
+<rect x="699" y="396" width="72" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="698" y="394" width="72" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.75s" repeatCount="indefinite"/></rect>
+<rect x="698" y="394" width="72" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.75s" repeatCount="indefinite"/></rect>
+<text x="734" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Ansible</text>
+<rect x="778" y="396" width="58" height="27" rx="5" fill="#d73a49" opacity="0.15"/>
+<rect x="777" y="394" width="58" height="27" rx="5"><animate attributeName="fill" values="#d73a4933;#d73a4966;#d73a4933" dur="4s" begin="2.81s" repeatCount="indefinite"/></rect>
+<rect x="777" y="394" width="58" height="27" rx="5" fill="none" stroke="#f85149" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.81s" repeatCount="indefinite"/></rect>
+<text x="806" y="412" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">CI/CD</text>
+<rect x="18" y="446" width="79" height="20" rx="4" fill="#0d7080" opacity="0.2"/>
+<rect x="18" y="446" width="79" height="20" rx="4" fill="none" stroke="#1ab2cc" stroke-width="1.2" opacity="0.8"/>
+<circle cx="28" cy="456" r="3" fill="#1ab2cc" opacity="0.9"/>
+<text x="38" y="460" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#1ab2cc" letter-spacing="0.3">MOBILE</text>
+<rect x="19" y="474" width="101" height="27" rx="5" fill="#0d7080" opacity="0.15"/>
+<rect x="18" y="472" width="101" height="27" rx="5"><animate attributeName="fill" values="#0d708033;#0d708066;#0d708033" dur="4s" begin="2.86s" repeatCount="indefinite"/></rect>
+<rect x="18" y="472" width="101" height="27" rx="5" fill="none" stroke="#1ab2cc" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.86s" repeatCount="indefinite"/></rect>
+<text x="68.5" y="490" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">iOS (Swift)</text>
+<rect x="127" y="474" width="137" height="27" rx="5" fill="#0d7080" opacity="0.15"/>
+<rect x="126" y="472" width="137" height="27" rx="5"><animate attributeName="fill" values="#0d708033;#0d708066;#0d708033" dur="4s" begin="2.92s" repeatCount="indefinite"/></rect>
+<rect x="126" y="472" width="137" height="27" rx="5" fill="none" stroke="#1ab2cc" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.92s" repeatCount="indefinite"/></rect>
+<text x="194.5" y="490" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Android (Kotlin)</text>
+<rect x="271" y="474" width="108" height="27" rx="5" fill="#0d7080" opacity="0.15"/>
+<rect x="270" y="472" width="108" height="27" rx="5"><animate attributeName="fill" values="#0d708033;#0d708066;#0d708033" dur="4s" begin="2.97s" repeatCount="indefinite"/></rect>
+<rect x="270" y="472" width="108" height="27" rx="5" fill="none" stroke="#1ab2cc" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="2.97s" repeatCount="indefinite"/></rect>
+<text x="324" y="490" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">React Native</text>
+<rect x="386" y="474" width="72" height="27" rx="5" fill="#0d7080" opacity="0.15"/>
+<rect x="385" y="472" width="72" height="27" rx="5"><animate attributeName="fill" values="#0d708033;#0d708066;#0d708033" dur="4s" begin="3.02s" repeatCount="indefinite"/></rect>
+<rect x="385" y="472" width="72" height="27" rx="5" fill="none" stroke="#1ab2cc" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.02s" repeatCount="indefinite"/></rect>
+<text x="421" y="490" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Flutter</text>
+<rect x="465" y="474" width="72" height="27" rx="5" fill="#0d7080" opacity="0.15"/>
+<rect x="464" y="472" width="72" height="27" rx="5"><animate attributeName="fill" values="#0d708033;#0d708066;#0d708033" dur="4s" begin="3.08s" repeatCount="indefinite"/></rect>
+<rect x="464" y="472" width="72" height="27" rx="5" fill="none" stroke="#1ab2cc" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.08s" repeatCount="indefinite"/></rect>
+<text x="500" y="490" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">SwiftUI</text>
+<rect x="544" y="474" width="130" height="27" rx="5" fill="#0d7080" opacity="0.15"/>
+<rect x="543" y="472" width="130" height="27" rx="5"><animate attributeName="fill" values="#0d708033;#0d708066;#0d708033" dur="4s" begin="3.14s" repeatCount="indefinite"/></rect>
+<rect x="543" y="472" width="130" height="27" rx="5" fill="none" stroke="#1ab2cc" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.14s" repeatCount="indefinite"/></rect>
+<text x="608" y="490" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Jetpack Compose</text>
+<rect x="681" y="474" width="58" height="27" rx="5" fill="#0d7080" opacity="0.15"/>
+<rect x="680" y="472" width="58" height="27" rx="5"><animate attributeName="fill" values="#0d708033;#0d708066;#0d708033" dur="4s" begin="3.19s" repeatCount="indefinite"/></rect>
+<rect x="680" y="472" width="58" height="27" rx="5" fill="none" stroke="#1ab2cc" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.19s" repeatCount="indefinite"/></rect>
+<text x="709" y="490" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Xcode</text>
+<rect x="18" y="524" width="87.5" height="20" rx="4" fill="#6e40c9" opacity="0.2"/>
+<rect x="18" y="524" width="87.5" height="20" rx="4" fill="none" stroke="#a371f7" stroke-width="1.2" opacity="0.8"/>
+<circle cx="28" cy="534" r="3" fill="#a371f7" opacity="0.9"/>
+<text x="38" y="538" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#a371f7" letter-spacing="0.3">AI / ML</text>
+<rect x="19" y="552" width="94" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="18" y="550" width="94" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.25s" repeatCount="indefinite"/></rect>
+<rect x="18" y="550" width="94" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.25s" repeatCount="indefinite"/></rect>
+<text x="65" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">TensorFlow</text>
+<rect x="120" y="552" width="72" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="119" y="550" width="72" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.30s" repeatCount="indefinite"/></rect>
+<rect x="119" y="550" width="72" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.30s" repeatCount="indefinite"/></rect>
+<text x="155" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">PyTorch</text>
+<rect x="199" y="552" width="108" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="198" y="550" width="108" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.35s" repeatCount="indefinite"/></rect>
+<rect x="198" y="550" width="108" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.35s" repeatCount="indefinite"/></rect>
+<text x="252" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">scikit-learn</text>
+<rect x="314" y="552" width="94" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="313" y="550" width="94" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.41s" repeatCount="indefinite"/></rect>
+<rect x="313" y="550" width="94" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.41s" repeatCount="indefinite"/></rect>
+<text x="360" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">OpenAI API</text>
+<rect x="415" y="552" width="87" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="414" y="550" width="87" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.46s" repeatCount="indefinite"/></rect>
+<rect x="414" y="550" width="87" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.46s" repeatCount="indefinite"/></rect>
+<text x="457.5" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">LangChain</text>
+<rect x="509" y="552" width="65" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="508" y="550" width="65" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.52s" repeatCount="indefinite"/></rect>
+<rect x="508" y="550" width="65" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.52s" repeatCount="indefinite"/></rect>
+<text x="540.5" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Pandas</text>
+<rect x="581" y="552" width="58" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="580" y="550" width="58" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.58s" repeatCount="indefinite"/></rect>
+<rect x="580" y="550" width="58" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.58s" repeatCount="indefinite"/></rect>
+<text x="609" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">NumPy</text>
+<rect x="646" y="552" width="72" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="645" y="550" width="72" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.63s" repeatCount="indefinite"/></rect>
+<rect x="645" y="550" width="72" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.63s" repeatCount="indefinite"/></rect>
+<text x="681" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Jupyter</text>
+<rect x="725" y="552" width="108" height="27" rx="5" fill="#6e40c9" opacity="0.15"/>
+<rect x="724" y="550" width="108" height="27" rx="5"><animate attributeName="fill" values="#6e40c933;#6e40c966;#6e40c933" dur="4s" begin="3.69s" repeatCount="indefinite"/></rect>
+<rect x="724" y="550" width="108" height="27" rx="5" fill="none" stroke="#a371f7" stroke-width="1.2"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" begin="3.69s" repeatCount="indefinite"/></rect>
+<text x="778" y="568" text-anchor="middle" font-family="'Segoe UI',Consolas,Arial,sans-serif" font-size="11.5" fill="#e6edf3" font-weight="500">Hugging Face</text>
+<line x1="0" y1="621" x2="860" y2="621" stroke="#30363d" stroke-width="1"/>
+</svg>
