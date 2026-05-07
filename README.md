@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![banner](banner.png)
+
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
