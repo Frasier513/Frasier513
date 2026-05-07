@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Technical Skills](technical-skills.png)
+
+## My Contribution Graph
+
+![Contribution Graph](contribution-graph.svg)
