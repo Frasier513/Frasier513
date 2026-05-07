@@ -1,4 +1,4 @@
-## 🇺🇸🇵🇷 Hi there 👋 <img width="20" height="20" alt="tree" src="https://github.com/user-attachments/assets/bbe9cbfe-1bb5-454f-af8f-cf16a563b631" />
+## 🇺🇸🇵🇷 Hi there 👋 <picture><img width="20" height="20" alt="tree" src="https://github.com/user-attachments/assets/bbe9cbfe-1bb5-454f-af8f-cf16a563b631"/></picture>
 
 
 ![banner](banner.png)
